@@ -31,7 +31,7 @@ best_seller_productObj = [
     price: 1199,
     mrp: 3990,
     image:
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img-R333-1_600x.png?v=1641801662",
+      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img-R333_600x.png?v=1671194172",
   },
 
   {
